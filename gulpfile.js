@@ -13,10 +13,10 @@
 *     rename = require('gulp-rename'),           //重命名
 *     plumber  = require('gulp-plumber'),        //处理所有错误的通用方法
 *     cache  = require('gulp-cache'),            //只压缩修改的图片
- *    gutil = require('gulp-util')               //打印错误日志
+*    gutil = require('gulp-util')               //打印错误日志
 *     pngquant  = require('imagemin-pngquant'),  //深度压缩png图片
 *     browserify  = require('browserify'),       //模块化工具
- *    through2 = require('through2');            // gulp 管道中使用 throuth2 操作 vinyl 文件对象，browserify 处理以后再返回管道中。
+*    through2 = require('through2');            // gulp 管道中使用 throuth2 操作 vinyl 文件对象，browserify 处理以后再返回管道中。
 **/
 /**
  * 引入 gulp及组件(方法二)
