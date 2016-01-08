@@ -1,2 +1,1 @@
-console.log(212);
-console.log("abcd");
+console.log("wertyui");
