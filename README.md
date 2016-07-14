@@ -1,4 +1,4 @@
-gulp [![hello letv](about "letv" gulp project)]
+gulp [hello letv]
 ==============
 
 > 配置gulp项目
